@@ -1,0 +1,14 @@
+C:\Users\acer\Desktop\09.10.2023\metod\metod\bin\Debug\net6.0\metod.exe
+C:\Users\acer\Desktop\09.10.2023\metod\metod\bin\Debug\net6.0\metod.deps.json
+C:\Users\acer\Desktop\09.10.2023\metod\metod\bin\Debug\net6.0\metod.runtimeconfig.json
+C:\Users\acer\Desktop\09.10.2023\metod\metod\bin\Debug\net6.0\metod.dll
+C:\Users\acer\Desktop\09.10.2023\metod\metod\bin\Debug\net6.0\metod.pdb
+C:\Users\acer\Desktop\09.10.2023\metod\metod\obj\Debug\net6.0\metod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\09.10.2023\metod\metod\obj\Debug\net6.0\metod.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\09.10.2023\metod\metod\obj\Debug\net6.0\metod.AssemblyInfo.cs
+C:\Users\acer\Desktop\09.10.2023\metod\metod\obj\Debug\net6.0\metod.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\09.10.2023\metod\metod\obj\Debug\net6.0\metod.dll
+C:\Users\acer\Desktop\09.10.2023\metod\metod\obj\Debug\net6.0\refint\metod.dll
+C:\Users\acer\Desktop\09.10.2023\metod\metod\obj\Debug\net6.0\metod.pdb
+C:\Users\acer\Desktop\09.10.2023\metod\metod\obj\Debug\net6.0\metod.genruntimeconfig.cache
+C:\Users\acer\Desktop\09.10.2023\metod\metod\obj\Debug\net6.0\ref\metod.dll
